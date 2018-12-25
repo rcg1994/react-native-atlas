@@ -26,5 +26,4 @@ You can download the demo APP from here with Android.
 
 # License
 
-Atlas is open source and released under the MIT [License](https://github.com/rcg1994/react-native-atlas/blob/master/LICENSE)
-
+Atlas is open source and released under the [MIT License](https://github.com/rcg1994/react-native-atlas/blob/master/LICENSE)
