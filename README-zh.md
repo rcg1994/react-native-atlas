@@ -13,7 +13,7 @@
 
 </div>
 
-[English](./) | 简体中文
+[English](https://github.com/rcg1994/react-native-atlas) | 简体中文
 
 # 文档
 
