@@ -13,7 +13,7 @@
 
 </div>
 
-[English](./README.md) | 简体中文
+[English](./) | 简体中文
 
 # 文档
 
