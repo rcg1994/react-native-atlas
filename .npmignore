@@ -35,3 +35,6 @@ npm-debug.log
 local.properties
 .gradle/
 example/
+
+.watchmanconfig
+.eslintrc.js
