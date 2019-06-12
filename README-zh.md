@@ -17,7 +17,7 @@
 
 # 文档
 
-请前往我们的官方网站查看[文档]()。
+请前往我们的官方网站查看[文档](https://github.com/rcg1994/react-native-atlas/wiki)。
 
 # 演示应用
 
