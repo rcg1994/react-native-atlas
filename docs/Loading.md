@@ -18,7 +18,7 @@ import { ATLoading } from 'react-native-atlas'
 
 #### 不同大小
 
-<img src="https://github.com/rcg1994/light/raw/master/images/atals/loading-01.gif" width="400"/>
+<img src="https://github.com/rcg1994/light/raw/master/images/atals/loading-001.gif" width="400"/>
 
 ```javascript
 import { ATLoading, ATRowView } from "react-native-atlas";
@@ -36,6 +36,8 @@ import { ATLoading, ATRowView } from "react-native-atlas";
 
 #### 不同颜色
 
+<img src="https://github.com/rcg1994/light/raw/master/images/atals/loading-002.gif" width="400"/>
+
 ```javascript
 import { ATLoading, ATRowView } from "react-native-atlas";
 
@@ -52,6 +54,8 @@ import { ATLoading, ATRowView } from "react-native-atlas";
 
 #### 加载文案
 
+<img src="https://github.com/rcg1994/light/raw/master/images/atals/loading-003.gif" width="400"/>
+
 ```javascript
 import { ATLoading, ATRowView } from "react-native-atlas";
 
@@ -66,13 +70,15 @@ import { ATLoading, ATRowView } from "react-native-atlas";
 
 #### 自定义图案
 
+<img src="https://github.com/rcg1994/light/raw/master/images/atals/loading-004.gif" width="200"/>
+
 ```javascript
 import { ATLoading, ATSpin, ATRowView } from "react-native-atlas";
 
 <ATRowView>
-  
-	<ATLoading title="拼命加载中" indicator={<ATSpin size={8} />} />
-    
+
+  <ATLoading title="拼命加载中" indicator={<ATSpin size={8} />} />
+
 </ATRowView>
 ```
 
@@ -84,7 +90,7 @@ import { ATLoading, ATSpin, ATRowView } from "react-native-atlas";
 | 属性  | 说明         | 类型           | 默认值  |
 | ----- | ------------ | -------------- | ------- |
 | size  | 设置大小，`large`、`small` 或者数字(仅安卓) | string、number(android only) | `large` |
-| icon  | 设置颜色      | string         | `null`  |
+| color | 设置颜色      | string         | `null`  |
 | title | 设置加载文案   | string         | `null`  |
 | indicator | 自定义的图案，暂不支持自动旋转 | any | null |
 
