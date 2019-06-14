@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-一套基于 React Naitve 的业务驱动型 UI 组件库
+
+Wonderful UI components for React Native 
 
 [![npm package](https://img.shields.io/npm/v/react-native-atlas.svg)](https://www.npmjs.com/package/react-native-atlas)
 [![](https://img.shields.io/npm/dt/react-native-atlas.svg)](https://www.npmjs.com/package/react-native-atlas)
@@ -13,17 +14,16 @@
 
 </div>
 
-[English](https://github.com/rcg1994/react-native-atlas) | 简体中文
+[简体中文](https://github.com/rcg1994/react-native-atlas) | English
 
-# 文档
+# Documentation
 
-请前往我们的官方网站查看[文档](https://github.com/rcg1994/react-native-atlas/wiki)。
+Documentation for this framework is here.
 
-# 演示应用
+# Demo applications
 
-您可以下载我们的 APP 进行查看，目前仅支持安卓：[下载地址]()。
+You can download the demo APP from here with Android.
 
-# 开源许可
+# License
 
-Atlas 的开源与发布基于 [MIT License](https://github.com/rcg1994/react-native-atlas/blob/master/LICENSE)
-
+Atlas is open source and released under the [MIT License](https://github.com/rcg1994/react-native-atlas/blob/master/LICENSE)

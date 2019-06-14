@@ -24,3 +24,7 @@ npm i react-native-atlas --save
 
 [Button](https://github.com/rcg1994/react-native-atlas/wiki/Button)
 
+[Loading](https://github.com/rcg1994/react-native-atlas/wiki/Loading)
+
+[FlexLine](https://github.com/rcg1994/react-native-atlas/wiki/FlexLine)
+

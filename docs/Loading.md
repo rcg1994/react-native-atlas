@@ -92,5 +92,7 @@ import { ATLoading, ATSpin, ATRowView } from "react-native-atlas";
 | size  | 设置大小，`large`、`small` 或者数字(仅安卓) | string、number(android only) | `large` |
 | color | 设置颜色      | string         | `null`  |
 | title | 设置加载文案   | string         | `null`  |
-| indicator | 自定义的图案，暂不支持自动旋转 | any | null |
+| indicator | 自定义的图案，暂不支持自动旋转 | any | `null` |
+| style | Loading样式 | any | `null` |
+| titleStyle | 加载文案样式 | any | `null` |
 
