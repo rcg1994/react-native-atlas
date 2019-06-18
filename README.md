@@ -43,6 +43,7 @@
 
 [ModalCreate](https://github.com/rcg1994/react-native-atlas/wiki/ModalCreate)
 
+[Input](https://github.com/rcg1994/react-native-atlas/wiki/Input)
 
 # 演示应用
 
