@@ -158,7 +158,7 @@ let options = [
     onChange={this.checkBoxGroupChange}
     options={options}
     max={3}
-    checkedImage={
+    checkedView={
       <View style={styles.unCheckedImage}>
         <Icon
           name="check-square"
@@ -167,7 +167,7 @@ let options = [
         />
       </View>
     }
-    unCheckedImage={<View style={styles.unCheckedImage} />}
+    unCheckedView={<View style={styles.unCheckedImage} />}
     tintColor={Colors.primary}
     rightTextStyle={styles.checkText}
     optionStyle={{ width: '50%' }}
@@ -194,6 +194,8 @@ let options = [
 | rightText | 右边文案 | string  | `null` |
 | tintColor | 选中时颜色 | any  | `null` |
 | onPress | 点击事件 | function  | `null` |
+| checkedView | 选中时样式 | any  | `null` |
+| unCheckedView | 未选中时样式 | any  | `null` |
 
 #### ATCheckBoxGroup
 
@@ -201,8 +203,11 @@ let options = [
 | -------- | ---------------------------------- | ---- | ------ |
 | option | 选项数据 | array  | `null` |
 | max | 做多选中数量 | number  | `null` |
-| checkedImage | 选中时样式 | any  | `null` |
-| unCheckedImage | 未选中时样式 | any  | `null` |
+| itemStyle | 子项样式 | any  | `null` |
+| checkedView | 选中时样式 | any  | `null` |
+| unCheckedView | 未选中时样式 | any  | `null` |
 | tintColor | 选中时颜色 | any  | `null` |
 | onHint | 超出最大选中数量时执行事件 | function  | `null` |
+| value | 绑定的值 | any  | `null` |
+| onChange | change事件 | function  | `null` |
 
