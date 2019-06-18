@@ -25,6 +25,8 @@
 
 [Button](https://github.com/rcg1994/react-native-atlas/wiki/Button)
 
+[Tag](https://github.com/rcg1994/react-native-atlas/wiki/Tag)
+
 [Loading](https://github.com/rcg1994/react-native-atlas/wiki/Loading)
 
 [FlexLine](https://github.com/rcg1994/react-native-atlas/wiki/FlexLine)
