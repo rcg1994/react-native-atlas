@@ -45,6 +45,8 @@
 
 [Input](https://github.com/rcg1994/react-native-atlas/wiki/Input)
 
+[CheckBox](https://github.com/rcg1994/react-native-atlas/wiki/CheckBox)
+
 # 演示应用
 
 我们准备了一个示例APP便于查看：[atlas-app](https://github.com/rcg1994/atlas-app)
