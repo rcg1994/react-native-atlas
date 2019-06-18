@@ -46,7 +46,7 @@
 
 # 演示应用
 
-您可以下载我们的 APP 进行查看，目前仅支持安卓：[下载地址]()。
+我们准备了一个示例APP便于查看：[atlas-app](https://github.com/rcg1994/atlas-app)
 
 # 开源许可
 
