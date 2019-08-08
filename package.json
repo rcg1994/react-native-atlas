@@ -1,6 +1,6 @@
 {
   "name": "react-native-atlas",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Wonderful UI components for React Native",
   "main": "lib/index.js",
   "scripts": {},
