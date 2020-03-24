@@ -1,6 +1,6 @@
 {
   "name": "react-native-atlas",
-  "version": "0.0.15",
+  "version": "0.0.18",
   "description": "Wonderful UI components for React Native",
   "main": "lib/index.js",
   "scripts": {},
@@ -10,6 +10,7 @@
   "dependencies": {
     "create-react-class": "^15.6.3",
     "lodash.debounce": "^4.0.8",
+    "lodash.isnumber": "^3.0.3",
     "lodash.throttle": "^4.1.1",
     "prop-types": "^15.6.1",
     "ramda": "^0.25.0"
